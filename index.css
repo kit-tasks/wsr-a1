@@ -1,0 +1,36 @@
+body {
+    background-color: #f9f9f9;
+}
+
+.mh {
+    margin-top: 6rem;
+}
+
+.mb {
+    margin-bottom: 1rem;
+}
+
+.mr {
+    margin-right: 1rem;
+}
+
+.header {
+    text-align: center;
+    font-size: 2rem;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+}
+
+.row-block {
+    background-color: white;
+    margin: 1rem;
+    padding: 1rem;
+    width: 40rem;
+}
+
+.text-center {
+    text-align: center;
+}
